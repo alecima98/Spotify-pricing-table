@@ -121,8 +121,9 @@ button:hover {
 }
 
 .student button {
-
     background-color: #c4b1d4;
+
+    margin-top: 0;
 
     border: 1px solid #c4b1d4
 }
