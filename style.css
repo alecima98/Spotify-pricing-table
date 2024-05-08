@@ -2,7 +2,7 @@ body {
     background-color: #121212;
     font-family: "Nunito", sans-serif;
 }
-
+/* Layout cards*/
 .pricing-container {
     display: flex;
     flex-wrap: wrap;
@@ -24,7 +24,7 @@ body {
 
     border-radius: 10px;
 }
-
+/* Stile cards*/
 .svg-fit-spotify {
     width: 22px;
     height: 22px;
