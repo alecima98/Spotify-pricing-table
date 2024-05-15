@@ -72,7 +72,7 @@ button {
 
     margin-top: 20px;
 
-    transition: transform 0.5s ease-in-out;
+    transition: transform 1s ease-in-out;
 }
 
 button:hover {
