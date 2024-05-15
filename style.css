@@ -72,12 +72,12 @@ button {
 
     margin-top: 20px;
 
-    
+    transition-duration: 5s;
 }
 
 button:hover {
     transform: scale(1.1) perspective(1px);
-    transition-duration: 5s;
+    
 }
 
 .descrizione {
